@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rishit-kadha
+- 👋 Hi
 - 👀 I’m interested in rocket science
 - 🌱 I’m currently learning python
 -  I'm still a student
