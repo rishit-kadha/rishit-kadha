@@ -1,7 +1,4 @@
-- 👋 Hi
-- 👀 I’m interested in rocket science
-- 🌱 I’m currently learning python
--  I'm still a student
+- Currently Pursuing AI and Machine Learning... 
 
 <!---
 rishit-kadha/rishit-kadha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
