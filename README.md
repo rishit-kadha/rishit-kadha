@@ -1,5 +1,5 @@
-- 😊 Hi ! I am Rishit .
-- 🤓 I am pretty new to open source and looking for new opportunities to learn !  
+-  Hi ! I am Rishit .
+-  I am pretty new to open source and looking for new opportunities to learn !  
 
 <!---
 rishit-kadha/rishit-kadha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
