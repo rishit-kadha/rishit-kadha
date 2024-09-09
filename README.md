@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishit-kadha&label=Profile%20views&color=0e75b6&style=flat" alt="tanmay5268" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rishit-kadha&label=Profile%20views&color=58d68d&style=flat" alt="tanmay5268" /> </p>
 -  Hi ! I am Rishit .<br>
 -  I am pretty new to open source and looking for new opportunities to learn !<br>
 <h3 align="left">Connect with me:</h3>
