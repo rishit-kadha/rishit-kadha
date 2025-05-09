@@ -5,7 +5,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/rishit-kadha-18958126a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rishit Kadha" height="30" width="40" /></a>
 </p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rishit-kadha&" alt="rishit-kadha" /></p>
+[![GitHub Streak](https://github-readme-streak-stats-pi-two-93.vercel.app?user=rishit-kadha&theme=shadow-green&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 <!---
 rishit-kadha/rishit-kadha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
