@@ -6,7 +6,6 @@ I'm a 2nd year B.Tech AI/ML student at GGSIPU, New Delhi — but I spend most of
 
 Right now I'm building **[FreezePeach](https://github.com/rishit-kadha/freezepeach)** — a semi-anonymous social platform where ideas matter more than who said them.
 
----
 
 ## What I Work With
 
@@ -46,7 +45,6 @@ Right now I'm building **[FreezePeach](https://github.com/rishit-kadha/freezepea
 A semi-anonymous social platform. Post publicly or anonymously — your call, every time. Built with Next.js, TypeScript, PostgreSQL and Prisma. Walls system, threaded comments, notifications, DMs.
 → Identity-separated architecture at the data layer. Not just a UI toggle.
 
----
 
 ## What I'm Looking For
 
@@ -55,7 +53,6 @@ A semi-anonymous social platform. Post publicly or anonymously — your call, ev
 - 🤝 **Open source collabs** — if you're building something interesting, I'm in
 - 🚀 **Full-time** — after graduation in 2028
 
----
 
 ## Let's Talk
 
@@ -63,6 +60,5 @@ A semi-anonymous social platform. Post publicly or anonymously — your call, ev
 [![Email](https://img.shields.io/badge/Email-rishitkadha@gmail.com-EA4335?style=flat&logo=gmail)](mailto:rishitkadha@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-rishit--kadha-181717?style=flat&logo=github)](https://github.com/rishit-kadha)
 
----
 
 *Currently in New Delhi. Open to remote.*
