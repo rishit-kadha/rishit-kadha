@@ -41,17 +41,16 @@ Right now I'm building **[FreezePeach](https://github.com/rishit-kadha/freezepea
 
 ## What I'm Building
 
-### 🍑 FreezePeach *(launching soon)*
+### 🧊🍑 FreezePeach *(launching soon)*
 A semi-anonymous social platform. Post publicly or anonymously — your call, every time. Built with Next.js, TypeScript, PostgreSQL and Prisma. Walls system, threaded comments, notifications, DMs.
 → Identity-separated architecture at the data layer. Not just a UI toggle.
 
 
 ## What I'm Looking For
 
-- 🎯 **Internships** — fullstack or backend
-- 💼 **Freelance** — web apps, platforms, products
-- 🤝 **Open source collabs** — if you're building something interesting, I'm in
-- 🚀 **Full-time** — after graduation in 2028
+-  **Internships** — fullstack or backend
+-  **Freelance** — web apps, platforms, products
+-  **Full-time** — after graduation in 2028
 
 
 ## Let's Talk
