@@ -2,7 +2,7 @@
 
 > Fullstack developer. AIML student.
 
-I'm a 2nd year B.Tech AI/ML student at GGSIPU, New Delhi — but I spend most of my time writing code that goes beyond the classroom. I care about products that solve real problems, architectures that scale, and interfaces that feel good to use.
+I'm a 2nd year B.Tech AI/ML student at GGSIPU, New Delhi .
 
 Right now I'm building **[FreezePeach](https://github.com/rishit-kadha/freezepeach)** — a semi-anonymous social platform where ideas matter more than who said them.
 
