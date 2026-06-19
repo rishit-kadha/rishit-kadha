@@ -2,10 +2,7 @@
 
 > Fullstack developer. AIML student.
 
-I'm a 2nd year B.Tech AI/ML student at GGSIPU, New Delhi .
-
-Right now I'm building **[FreezePeach](https://github.com/rishit-kadha/freezepeach)** — a semi-anonymous social platform where ideas matter more than who said them.
-
+I'm a 3rd year B.Tech AI/ML student at GGSIPU, New Delhi .
 
 ## What I Work With
 
@@ -37,21 +34,6 @@ Right now I'm building **[FreezePeach](https://github.com/rishit-kadha/freezepea
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=fff)
 ![Vercel](https://img.shields.io/badge/Vercel-000?style=flat&logo=vercel&logoColor=fff)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=000)
-
-
-## What I'm Building
-
-### 🧊🍑 FreezePeach *(launching soon)*
-A semi-anonymous social platform. Post publicly or anonymously — your call, every time. Built with Next.js, TypeScript, PostgreSQL and Prisma. Walls system, threaded comments, notifications, DMs.
-→ Identity-separated architecture at the data layer. Not just a UI toggle.
-
-
-## What I'm Looking For
-
--  **Internships** — fullstack or backend
--  **Freelance** — web apps, platforms, products
--  **Full-time** — after graduation in 2028
-
 
 ## Let's Talk
 
