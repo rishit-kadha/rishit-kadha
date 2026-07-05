@@ -12,7 +12,7 @@ I'm a 3rd year B.Tech AI/ML student at GGSIPU, New Delhi .
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=fff)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=fff)
-![Go](https://img.shields.io/badge/Go_(learning)-00ADD8?style=flat&logo=go&logoColor=fff)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=fff)
 
 **Frontend**
 
